@@ -1,0 +1,139 @@
+.contenedor{
+    width: 90%;
+    max-width: 300px;
+    margin: auto;
+    border: solid;
+    text-align: center;
+    height: 440px;
+    background-color: aqua;
+}
+
+.nutrition{
+    margin: auto;
+    width: 270px;
+    border-bottom: 2px solid black ;
+    font-size: 40px;
+  
+}
+
+.ocho{
+    display: flex;
+    margin: 5px;
+    padding-left:10px ;
+}
+
+.serving{
+    margin: -25px 15px ;
+    border-bottom: 7px solid;
+    display: flex;
+    justify-content: space-between;
+    width: 270px;
+    height: 50px;
+}
+
+.amount{
+    display: flex;
+    margin: 25px 15px;
+    
+}
+
+.calories{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 4px solid;
+    width: 270px;
+    height: 60px;
+    margin: -50px 0 0 15px;
+}
+
+.daily{
+    display: flex;
+    justify-content: flex-end;
+    border-bottom: 1px solid;
+    width: 270px;
+    margin: auto;
+}
+
+.total{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid;
+    width: 270px;
+    margin: -20px 15px;
+    height: 40px;
+}
+
+.fat{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid;
+    width: 270px;
+    margin: 5px 15px;
+    height: 40px;
+}
+
+.satured{
+    padding-left:20px ;
+    
+}
+
+.trans{
+    display: flex;
+    padding-left: 20px;
+    height: 20px;
+    margin: 0px 15px ;
+    border-bottom: 1px solid;
+}
+
+.cholesterol{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid;
+    margin: -20px 15px;
+    height: 45px;
+}
+
+.sodium{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px 15px;
+    height: 40px;
+    border-bottom: 1px solid;
+}
+
+.carbohy{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid;
+    margin: -25px 15px;
+    height: 40px;
+}
+
+.dietary{
+    display: flex;
+    border-bottom: 1px solid;
+    padding-left:20px ;
+    margin: 25px 15px;
+}
+
+.sugar{
+    display: flex;
+    border-bottom: 1px solid;
+    margin: -25px 15px 0;
+    padding-left: 20px;
+}
+
+.includes{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid;
+    margin: -15px 15px ;
+    height: 40px;
+    padding-left: 30px;
+}
+
+.protein{
+    display: flex;
+    border-bottom: 7px solid;
+    margin: 15px 15px;
+}
